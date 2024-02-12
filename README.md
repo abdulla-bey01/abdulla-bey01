@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking for a new remote flutter position
-- 📫 I am connectable on Whatsapp +994 70 335 33 83, on email abdullabey085@gmail.com, on telegram abdullabayli
+- 📫 I am connectable on Whatsapp +994 70 335 33 83, +971 58 990 86 19 on email abdullabey085@gmail.com, on telegram abdullabayli
 
 <!---
 abdulla-bey01/abdulla-bey01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
