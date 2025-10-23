@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abdulla-bey01
+- 👋 Hi, I’m Saleh Abdullabayli
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning golang
 - 📫 I am connectable on Whatsapp +994 55 725 78 85 on email abdullabey085@gmail.com
