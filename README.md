@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saleh Abdullabayli
-- 👀 I’m interested in mobile app development
+- 👀 I’m a Flutter developer, Ceo&Co-Founder of BITRY LTD, Founder of BomBomb - Multiplayer Match 3(live on play store & app store)
 - 🌱 I’m currently learning golang
-- 📫 I am connectable on Whatsapp +994 55 725 78 85 on email abdullabey085@gmail.com
+- 📫 I am connectable on Whatsapp +994 10 725 78 85 on email abdullabey085@gmail.com
 
 <!---
 abdulla-bey01/abdulla-bey01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
